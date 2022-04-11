@@ -1,2 +1,3 @@
 # C0RTEX
-A .bat simple virus
+A simple .bat virus.
+Can also be used in a Trojan.
